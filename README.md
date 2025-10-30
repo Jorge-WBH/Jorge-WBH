@@ -1,5 +1,5 @@
 # 💫 About Me:
-> I am a computer science student getting my bachelor's degree at Stevens Institute of Technology<br>> I'm most passionate about data analysis and sofware development<br>> Currently learning C, C++, and more Web Dev<br>> Working on my website as well as some smaller projects<br><br>(～￣▽￣)～
+\> I am a computer science student getting my bachelor's degree at Stevens Institute of Technology<br>> I'm most passionate about data analysis and sofware development<br>> Currently learning C, C++, and more Web Dev<br>> Working on my website as well as some smaller projects<br><br>(～￣▽￣)～
 
 
 ## 🌐 Socials:
