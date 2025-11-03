@@ -1,6 +1,7 @@
 # 🎉 About Me:
 \> I am a computer science student getting my bachelor's degree at Stevens Institute of Technology<br>> I'm most passionate about data analysis and sofware development<br>> Currently learning C, C++, and more Web Dev<br>> Working on my website as well as some smaller projects<br><br>(～￣▽￣)～
 
+Other acc: https://github.com/Mrzuuzzz
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jorgewbh/) 
